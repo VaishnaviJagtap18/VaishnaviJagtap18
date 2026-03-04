@@ -1,7 +1,7 @@
 # Hi, I'm Vaishnavi 👋
 
 I'm a first-year postgraduate student in Artificial Intelligence & Data Science (AI&DS) with a strong interest in **AI/ML and Data Science**.  
-Currently building a solid foundation in machine learning and actively exploring **open-source contribution opportunities**.
+Currently building a solid foundation in Artificial Intelligence and Machine Learning and actively exploring **open-source contribution opportunities**.
 
 ---
 
