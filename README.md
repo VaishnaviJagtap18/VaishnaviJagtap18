@@ -25,7 +25,7 @@ Scores resumes out of 100 across five weighted components (formatting, keywords,
 **[AI Gym Workout Coach](https://github.com/VaishnaviJagtap18/AI_GYM_Workout_Coach)** — real-time form-checking trainer
 Counts reps and checks form live through a webcam using MediaPipe pose landmarks and joint-angle math, across five exercises (squat, push-up, lunge, shoulder press, bicep curl). A Groq-hosted LLM generates spoken coaching feedback via TTS as you train.
 `MediaPipe` `OpenCV` `Streamlit-WebRTC` `Groq LLM`
-🔗 [Live demo](https://ai-gym-workout-coach.streamlit.app)
+🔗 [Live demo](https://vaishnavijagtap18.github.io/GYM_coach-ai/)
 
 **[NeuralCanvas — AdaIN Style Transfer](https://github.com/VaishnaviJagtap18/NeuralCanvas-AdaIN)** — real-time neural style transfer
 Implements Adaptive Instance Normalization (Huang & Belongie, 2017) to restyle any photo in a single forward pass, no per-image optimization. PyTorch VGG encoder + trained decoder, Flask web app with an alpha slider to blend content and style.
